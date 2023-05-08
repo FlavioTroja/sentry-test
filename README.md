@@ -6,5 +6,8 @@ replace in index.mjs your DNS
 ## install libs
 npm install
 
-## run test
+## run
 node src/index.mjs
+
+## test
+curl localhost:3000
